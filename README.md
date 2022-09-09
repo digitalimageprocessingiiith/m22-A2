@@ -1,5 +1,5 @@
 [![Generic badge](https://img.shields.io/badge/DIP-Assignment:2-BLUE.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/DUE-23:59hrs,07/10/2020-RED.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/DUE-23:59hrs,13/09/2022-RED.svg)](https://shields.io/)
 
 # Assignment-2
 
